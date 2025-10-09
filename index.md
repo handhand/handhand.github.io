@@ -4,7 +4,7 @@ layout: default
 
 [回到 handhand lab 首页](https://www.handhandlab.com).
 
-## 我的文章
+## 文章列表
 
 <ul>
   {% for post in site.posts %}
@@ -14,4 +14,4 @@ layout: default
   {% endfor %}
 </ul>
 
-有问题欢迎到github页面提issue，更欢迎star
+有问题欢迎到[github](https://github.com/handhand/handhand.github.io)提issue，更欢迎star
