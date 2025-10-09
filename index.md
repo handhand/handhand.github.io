@@ -2,8 +2,6 @@
 layout: default
 ---
 
-[回到 handhand lab 首页](https://www.handhandlab.com).
-
 ## 文章列表
 
 <ul>
