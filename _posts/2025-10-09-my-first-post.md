@@ -1,7 +1,9 @@
 ---
 layout: post
-title: "English"
+title: "我的第一个post"
+categories: blog, tutorial
+tags: jekyll, markdown
+author: handhand
 ---
 
-## English
 Hello world!
