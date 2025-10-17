@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Suspend方法的Unit Test覆盖率的分析"
-categories: [Android]
+categories: blog, tutorial
 author: handhand
 ---
 在项目中有这样一个方法
